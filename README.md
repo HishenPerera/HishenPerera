@@ -12,7 +12,10 @@
 
 <h3 align="center">I'm a passionate Developer from Sri Lanka.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hishens&label=Profile%20views&color=0e75b6&style=flat" alt="hishens" /> </p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=hishens&label=Profile%20views&color=0e75b6&style=flat" alt="hishens" /> &nbsp;&nbsp;
+ <img src="https://img.shields.io/github/followers/HishenS?label=Followers&style=social" alt="hishensflwrs" />
+</p>
 
 ---
 <table align="center">
