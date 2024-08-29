@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hishen Sandaru Perera</h1>
-<h3 align="center">I'm a passionate Developer from Sri Lanka & Undergraduate in SLIIT.</h3>
+<h1 align="center">Hi 👋, I'm Hishen Perera</h1>
+<h3 align="center">I'm a passionate Developer from Sri Lanka.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hishens&label=Profile%20views&color=0e75b6&style=flat" alt="hishens" /> </p>
 
