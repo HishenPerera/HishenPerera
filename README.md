@@ -10,7 +10,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20👋;I'm%20Hishen%20Perera;SLIIT%20Undergraduate%20🎓&font=Fira%20Code&center=true&width=440&height=45&color=006cff&vCenter=true&size=28" width="100%"></a>
 </p>
 
-<h3 align="center">I'm a Passionate Developer & IT Student from Sri Lanka.</h3>
+<h2 align="center">I'm a Passionate Developer & IT Student from Sri Lanka.</h2>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=hishens&label=Profile%20views&color=0e75b6&style=flat" alt="hishens" /> &nbsp;&nbsp;
