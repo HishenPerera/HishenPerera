@@ -3,15 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hishens&label=Profile%20views&color=0e75b6&style=flat" alt="hishens" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hishens" alt="hishens" /></a> </p>
-
+<hr>
 - <table align="center">
 <tr border="none">
 <td width="50%" align="left">
 
 - 🌱 I’m currently learning **OOP with Java**
 
-- - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
 - 💬 Ask me about **Web Development | OOC**
 
@@ -28,7 +27,7 @@
   </td>
 </tr>
 </table>
-
+<hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
