@@ -48,11 +48,10 @@
 <h3 align="center"> 🔥 Streak Stats</h3>
 
 
-<p width="55%" height="230px" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hishens&" alt="hishens"  /></p>
+<p width="55%" height="230px" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hishens&theme=nightowl" alt="hishens"  /></p>
 
 </details>
 
-----
 ---
 
 <p><img align="right" src= /></p>
