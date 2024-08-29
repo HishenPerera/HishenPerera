@@ -5,13 +5,30 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hishens" alt="hishens" /></a> </p>
 
+- <table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
 - 🌱 I’m currently learning **OOP with Java**
+
+- - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
 - 💬 Ask me about **Web Development | OOC**
 
 - 📫 How to reach me **hishenperera@gmail.com**
 
 - ⚡ Fun fact **I love bugs**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
