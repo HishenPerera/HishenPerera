@@ -1,8 +1,8 @@
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/HishenS.svg)](https://user-badge.committers.top/sri_lanka_private/HishenS)
 
 <p align="center">
- <a href="https://github.com/MadhushaPrasad">
-  <img src="https://github.com/HishenS/HishenS/blob/main/Profile%20Assets/PngItem_87557.png" height="400"/>
+ <a href="https://github.com/HishenS">
+  <img src="https://github.com/HishenS/HishenS/blob/main/Profile%20Assets/PngItem_87557.png" height="350"/>
  </a>
 </p>
 
