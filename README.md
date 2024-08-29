@@ -1,5 +1,11 @@
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/HishenS.svg)](https://user-badge.committers.top/sri_lanka_private/HishenS)
 
+<p align="center">
+ <a href="https://github.com/MadhushaPrasad">
+  <img src="https://github.com/HishenS/HishenS/blob/main/Profile%20Assets/PngItem_87557.png" height="400"/>
+ </a>
+</p>
+
 <p align="center" width="100%">
   <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20👋;I'm%20Hishen%20Perera;SLIIT%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=006cff&vCenter=true&size=28" width="100%"></a>
 </p>
