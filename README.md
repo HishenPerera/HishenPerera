@@ -1,8 +1,8 @@
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/HishenS.svg)](https://user-badge.committers.top/sri_lanka_private/HishenS)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/HishenPerera.svg)](https://user-badge.committers.top/sri_lanka_private/HishenPerera)
 
 <p align="center">
- <a href="https://github.com/HishenS">
-  <img src="https://github.com/HishenS/HishenS/blob/main/Profile%20Assets/PngItem_87557.png" height="350"/>
+ <a href="https://github.com/HishenPerera">
+  <img src="https://github.com/HishenPerera/HishenPerera/blob/main/Profile%20Assets/PngItem_87557.png" height="350"/>
  </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=hishens&label=Profile%20views&color=0e75b6&style=flat" alt="hishens" /> &nbsp;&nbsp;
- <img src="https://img.shields.io/github/followers/HishenS?label=Followers&style=social" alt="hishensflwrs" />
+ <img src="https://img.shields.io/github/followers/HishenPerera?label=Followers&style=social" alt="hishensflwrs" />
 </p>
 
 <p align="center">
@@ -63,10 +63,10 @@
 <tr border="none">
 <td width="60%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hishens&theme=nightowl&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hishenperera&theme=nightowl&show_icons=true&count_private=true" />
 <td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hishens&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hishenperera&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -75,7 +75,7 @@
 <h3 align="center"> 🔥 Streak Stats</h3>
 
 
-<p width="55%" height="230px" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hishens&theme=nightowl" alt="hishens"  /></p>
+<p width="55%" height="230px" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hishenperera&theme=nightowl" alt="hishens"  /></p>
 
 </details>
 
