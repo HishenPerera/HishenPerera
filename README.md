@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="https://github.com/HishenPerera">
-  <img src="https://github.com/HishenPerera/HishenPerera/blob/main/Profile%20Assets/PngItem_87557.png" height="350"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU0NTY4NjAsIm5iZiI6MTcyNTQ1NjU2MCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA0VDEzMjkyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNjMGYxMzBkY2M2Zjg2MjFjOTYzZTYzYTY4MTViNWUwZDViZmJmZjYzZDdiNTM2Y2JhOGU5MzViYjgyMzk4NTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.kjZLIU1v06qR6_zZlC3_HMo40UX0KE65SouKhTzcIA8" height="150" width="200"/>
  </a>
 </p>
 
