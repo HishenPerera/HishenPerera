@@ -38,8 +38,6 @@
 
 - 📫 How to reach me **hishenperera@gmail.com**
 
-- ⚡ Fun fact **I Love Bugs**
-
 </td>
 <td width="50%" align="center">
 
