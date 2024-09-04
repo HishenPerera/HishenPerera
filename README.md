@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20👋;I'm%20Hishen%20Perera;SLIIT%20Undergraduate%20🎓&font=Calibri&center=true&width=440&height=45&weight=700&color=00AAFF&vCenter=true&size=26" width="100%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20👋;I'm%20Hishen%20Perera;SLIIT%20Undergraduate%20🎓&font=Calibri&center=true&width=440&height=45&weight=700&color=D854FF&vCenter=true&size=26" width="100%"></a>
 </p>
 
 <h3 align="center">I'm a Passionate Developer & IT Student from Sri Lanka.</h3>
