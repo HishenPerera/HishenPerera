@@ -75,7 +75,7 @@
 <h3 align="center"> 🔥 Streak Stats</h3>
 
 
-<p width="55%" height="230px" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hishenperera&theme=nightowl" alt="hishens"  /></p>
+<p width="55%" height="230px" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hishenperera&theme=nightowl" alt="hishenperera"  /></p>
 
 </details>
 
