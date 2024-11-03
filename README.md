@@ -67,8 +67,8 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hishenperera&theme=nightowl&show_icons=true&count_private=true" />
 <td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hishenperera&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+ 
+  <img alt="Hishen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishenperera&langs_count=20&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=000000" />
   
   </td>
 </tr>
