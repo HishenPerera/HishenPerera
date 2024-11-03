@@ -64,11 +64,11 @@
 <table align="center">
 <tr border="none">
 <td width="60%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hishenperera&theme=nightowl&show_icons=true&count_private=true" />
-<td width="40%" align="center">
  
-  <img alt="Hishen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishenperera&langs_count=20&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=000000" />
+  <img alt="Hishen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hishenperera&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=000000&border_radius=20px" />
+</td>
+ <td width="60%" align="center">
+  <img alt="Hishen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishenperera&langs_count=20&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=000000&border_radius=20px" />
   
   </td>
 </tr>
@@ -76,8 +76,11 @@
 
 <h3 align="center"> 🔥 Streak Stats</h3>
 
-
-<p width="55%" height="230px" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hishenperera&theme=nightowl" alt="hishenperera"  /></p>
+<p width="55%" height="230px" align="center">
+ <a href="https://github.com/hishenperera/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hishen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hishenperera&theme=nightowl&hide_border=true&stroke=0000&background=000000&border_radius=20px" valign="bottom"/>
+    </a>
+</p>
 
 </details>
 
