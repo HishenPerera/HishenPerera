@@ -36,7 +36,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **Web Development | OOC | OOP with Java**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **hishenperera@gmail.com**
 
