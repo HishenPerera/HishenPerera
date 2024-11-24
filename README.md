@@ -32,11 +32,11 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **Web Development | OOC**
+- 💬 Ask me about **Web Development | OOC | OOP with Java**
 
 - 📫 How to reach me **hishenperera@gmail.com**
 
