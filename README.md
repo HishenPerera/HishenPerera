@@ -99,6 +99,15 @@
   </tr>
  <tr>
     <td style="text-align: center; border: none; ">
+      <p">Databases</p>
+    </td>
+    <td style="text-align: center; border: none;">
+     <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/5c3684ea2600643d750ba38bed9a2e54f4d7d2d7d170154ef665da3f4ba60611/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030303030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="mysql" width="100" height="50"/></a>
+     <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/ec9b2bbaccf6915a29050ce24c10cd9b481b0c41b0bf5194add3e69f49a9be3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="mongodb" width="115" height="50"/></a>
+    </td>
+  </tr>
+ <tr>
+    <td style="text-align: center; border: none; ">
       <p">Operating Systems</p>
     </td>
     <td style="text-align: center; border: none;">
