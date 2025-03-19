@@ -132,10 +132,10 @@
 <tr border="none">
 <td width="60%" align="center">
  
-  <img alt="Hishen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hishenperera&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=000000&border_radius=20px" />
+  <img alt="Hishen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hishenperera&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=000000&border_radius=20px" />
 </td>
  <td width="60%" align="center">
-  <img alt="Hishen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HishenPerera&langs_count=20&count_private=true&layout=compact&theme=algolia&hide_border=true&bg_color=000000&border_radius=20px" />
+  <img alt="Hishen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HishenPerera&langs_count=20&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=000000&border_radius=20px" />
   
   </td>
 </tr>
@@ -144,7 +144,7 @@
 <h3 align="center"> 🔥 Streak Stats</h3>
 
 <p width="55%" height="230px" align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hishen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HishenPerera&theme=algolia&hide_border=true&stroke=0000&background=000000&border_radius=20px" valign="bottom"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hishen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hishenperera&theme=nightowl&hide_border=true&stroke=0000&background=000000&border_radius=20px" valign="bottom"/>
 </p>
 
 </details>
