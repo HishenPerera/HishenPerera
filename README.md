@@ -149,7 +149,12 @@
 
 </details>
 
-
+<div align="center">
+  <br>
+  
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HishenPerera&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15&margin-h=15)
+</div>
 ---
 <h3 align="center">Support</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/hishenperera"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hishenperera" /></a></p>
