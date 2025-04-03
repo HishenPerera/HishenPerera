@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="https://github.com/HishenPerera">
-  <img src="https://github.com/HishenPerera/HishenPerera/blob/main/Profile%20Assets/octocat-1742102673869.png" height="300" width="300"/>
+  <img src="https://github.com/HishenPerera/HishenPerera/blob/main/Profile%20Assets/octocat-1742102673869.png" height="280" width="280"/>
  </a>
 </p>
 
