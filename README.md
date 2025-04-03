@@ -137,7 +137,7 @@
   <img alt="Hishen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hishenperera&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=000000&border_radius=20px" />
 </td>
  <td width="60%" align="center">
-  <img alt="Hishen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HishenPerera&langs_count=20&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=000000&border_radius=20px" />
+  <img alt="Hishen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishenperera&langs_count=20&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=000000&border_radius=20px" />
   
   </td>
 </tr>
