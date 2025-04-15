@@ -15,7 +15,7 @@
 <h3 align="center">I'm a Passionate Developer & IT Student from Sri Lanka</h3> 
 
 <p align="center"> 
- <img src="https://img.shields.io/github/followers/hishenperera?label=Followers&style=social" /> &nbsp;&nbsp;
+ <img src="https://img.shields.io/github/followers/HishenPerera?label=Followers&style=social" /> &nbsp;&nbsp;
  <img src="https://komarev.com/ghpvc/?username=hishens&label=Profile%20views&color=0e75b6&style=flat" alt="hishens" /> 
 </p>
 
